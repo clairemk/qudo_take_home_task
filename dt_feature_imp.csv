@@ -1,0 +1,61 @@
+,feats,importance,feats_orig,feats_ques,ID_label,Question,Answer_options,wave
+0,v0151_etra_frequencytravel1,0.07446004152045249,v0151_etra_frequencytravel1_num,v0151_etra_frequencytravel1,v0151_etra_frequencytravel1,"""How often have you traveled for private purposes in the past 12 months?""",,1.0
+1,GV_230#11,0.06663554506601514,GV_230#11,GV_230,GV_230,"""Which types of publications do you read?""",cooking & food magazines,1.0
+2,v0013_demo_agecat,0.05477907986970597,v0013_demo_agecat_num,v0013_demo_agecat,v0013_demo_agecat,"""How old are you?""",,1.0
+3,GV_133#11,0.03659067394602613,GV_133#11,GV_133,GV_133,"""Which of the following countries/regions have you travelled to in the last 12 months?""",North America,1.0
+4,v9990_demo_income2gbr,0.03288670774084031,v9990_demo_income2gbr_num,v9990_demo_income2gbr,v9990_demo_income2gbr,"""About how high is the annual gross income that your total household disposes of, before tax and contributions?""",,1.0
+5,GV_31#9,0.027298055518997333,GV_31#9,GV_31,GV_31,"""What kind of gambling do you participate in?""",offline lottery/scratchcard,1.0
+6,GV_14#99,0.025725243252318047,GV_14#99,GV_14,GV_14,"""When were your children born?""",I don't have children,1.0
+7,GV_230#2,0.02477538104733451,GV_230#2,GV_230,GV_230,"""Which types of publications do you read?""",evening newspaper,1.0
+8,v0152_etra_frequencytravel2,0.021837444312944414,v0152_etra_frequencytravel2_num,v0152_etra_frequencytravel2,v0152_etra_frequencytravel2,"""How often have you traveled for business purposes in the past 12 months?""",,1.0
+9,v0157_etra_brandsflights#2,0.021177893688917898,v0157_etra_brandsflights#2,v0157_etra_brandsflights,v0157_etra_brandsflights,"""Which of these providers have you booked a flight from in the past 12 months (online booking via a website or app)?""",Cheapflights,1.0
+10,GV_163#97,0.019164645974169385,GV_163#97,GV_163,GV_163,"""Please choose which departments/products you have influence or decision making authority on spending/purchasing""",no influence,1.0
+11,GV_174#26,0.01905475061311654,GV_174#26,GV_174,GV_174,"""Which fast food (quick service) restaurants do you go to, if any?""",KFC,1.0
+12,GV_174#41,0.01824399349555947,GV_174#41,GV_174,GV_174,"""Which fast food (quick service) restaurants do you go to, if any?""",Pizza Hut,1.0
+13,GV_339#9999,0.017240392260800434,GV_339#9999,GV_339,GV_339,"""Do you watch any of these channels on TV?""",none of the above,1.0
+14,GV_230#1,0.01644622771315032,GV_230#1,GV_230,GV_230,"""Which types of publications do you read?""",morning newspaper,1.0
+15,GV_136#22,0.015523470982973707,GV_136#22,GV_136,GV_136,"""Which gaming platforms do you regularly use?""",Nintendo 3DS/2DS,1.0
+16,GV_132#1,0.015354922597765113,GV_132#1,GV_132,GV_132,"""Which of the following types of vacation/holidays do you usually go on?""",all inclusive resort,1.0
+17,GV_136#25,0.014313312258032632,GV_136#25,GV_136,GV_136,"""Which gaming platforms do you regularly use?""",Sony PlayStation 4,1.0
+18,GV_174#69,0.013183841701189242,GV_174#69,GV_174,GV_174,"""Which fast food (quick service) restaurants do you go to, if any?""",Domino's,1.0
+19,GV_31#4,0.013050447901933054,GV_31#4,GV_31,GV_31,"""What kind of gambling do you participate in?""",I don't gamble at all,1.0
+20,GV_230#19,0.012746128451232035,GV_230#19,GV_230,GV_230,"""Which types of publications do you read?""",music magazines,1.0
+21,lives_in_england,0.012234794908062238,lives_in_england,lives_in_england,,,,1.0
+22,GV_198#17,0.011899625862042513,GV_198#17,GV_198,GV_198,"""What sports do you regularly participate in?""",running/jogging,1.0
+23,GV_198#20,0.011396189693441337,GV_198#20,GV_198,GV_198,"""What sports do you regularly participate in?""",rock climbing,1.0
+24,v9992_demo_migration#1,0.011385849955257928,v9992_demo_migration#1,v9992_demo_migration,v9992_demo_migration,"""Were you or your parents born outside of your current country of residence?""","yes, me",1.0
+25,GV_163#7,0.01123603614005716,GV_163#7,GV_163,GV_163,"""Please choose which departments/products you have influence or decision making authority on spending/purchasing""",printer and copier supplies (e.g. ink),1.0
+26,GV_133#5,0.011211521152115215,GV_133#5,GV_133,GV_133,"""Which of the following countries/regions have you travelled to in the last 12 months?""",Spain/Portugal,1.0
+27,GV_227#1,0.011186098201656903,GV_227#1,GV_227,GV_227,"""How do you play video/computer games?""",alone,1.0
+28,GV_163#110,0.010747427683944866,GV_163#110,GV_163,GV_163,"""Please choose which departments/products you have influence or decision making authority on spending/purchasing""",website development/maintenance,1.0
+29,GV_136#28,0.01059289602429631,GV_136#28,GV_136,GV_136,"""Which gaming platforms do you regularly use?""",Nintendo Switch,1.0
+0,v0151_etra_frequencytravel1,0.12469839281555622,v0151_etra_frequencytravel1_num,v0151_etra_frequencytravel1,v0151_etra_frequencytravel1,"""How often have you traveled for private purposes in the past 12 months?""",,2.0
+1,v9990_demo_income2gbr,0.05333139728544073,v9990_demo_income2gbr_num,v9990_demo_income2gbr,v9990_demo_income2gbr,"""About how high is the annual gross income that your total household disposes of, before tax and contributions?""",,2.0
+2,GV_14#99,0.0476996207839861,GV_14#99,GV_14,GV_14,"""When were your children born?""",I don't have children,2.0
+3,v0152_etra_frequencytravel2,0.039480991769994304,v0152_etra_frequencytravel2_num,v0152_etra_frequencytravel2,v0152_etra_frequencytravel2,"""How often have you traveled for business purposes in the past 12 months?""",,2.0
+4,v9915_demo_children,0.02789165339338352,v9915_demo_children_num,v9915_demo_children,v9915_demo_children,"""How many children and teenagers below 14 years of age permanently live in your household, no matter if they are your natural children or not?""",,2.0
+5,v0013_demo_agecat,0.025429230495829572,v0013_demo_agecat_num,v0013_demo_agecat,v0013_demo_agecat,"""How old are you?""",,2.0
+6,GV_133#1,0.024782135076252727,GV_133#1,GV_133,GV_133,"""Which of the following countries/regions have you travelled to in the last 12 months?""",Italy,2.0
+7,GV_136#17,0.02418754538852578,GV_136#17,GV_136,GV_136,"""Which gaming platforms do you regularly use?""",Apple based mobile device (iPod/iPad/iPhone),2.0
+8,GV_183#15,0.02143859649122814,GV_183#15,GV_183,GV_183,"""Have you tried to quit smoking using any of these products/methods?""",transdermal patch,2.0
+9,GV_183#12,0.021382400999615525,GV_183#12,GV_183,GV_183,"""Have you tried to quit smoking using any of these products/methods?""",nicotine patch,2.0
+10,GV_132#15,0.021197950819766654,GV_132#15,GV_132,GV_132,"""Which of the following types of vacation/holidays do you usually go on?""",long weekend getaways,2.0
+11,GV_198#998,0.02012297981172116,GV_198#998,GV_198,GV_198,"""What sports do you regularly participate in?""",I don't participate regularly in sports,2.0
+12,GV_132#3,0.01988367796761329,GV_132#3,GV_132,GV_132,"""Which of the following types of vacation/holidays do you usually go on?""",camping/caravanning,2.0
+13,GV_198#95,0.018439088598402327,GV_198#95,GV_198,GV_198,"""What sports do you regularly participate in?""",gymnastics,2.0
+14,GV_32#1,0.01838747243976001,GV_32#1,GV_32,GV_32,"""What pets/animals do you keep?""",cat(s),2.0
+15,v9996_demo_politiccountry#1,0.01821548125180664,v9996_demo_politiccountry#1,v9996_demo_politiccountry,v9996_demo_politiccountry,"""What do you think are the most important issues your country is facing at the moment? """,economic situation,2.0
+16,GV_136#26,0.018198529411764707,GV_136#26,GV_136,GV_136,"""Which gaming platforms do you regularly use?""",Microsoft Xbox One,2.0
+17,GV_14#100,0.01549920544357545,GV_14#100,GV_14,GV_14,"""When were your children born?""",prefer not to say,2.0
+18,GV_559#4,0.015461229946524074,GV_559#4,GV_559,GV_559,"""What was the last scent/perfume you bought in the last 12 months?""",none,2.0
+19,GV_132#20,0.01542353591519527,GV_132#20,GV_132,GV_132,"""Which of the following types of vacation/holidays do you usually go on?""",sightseeing,2.0
+20,GV_163#109,0.015174363698248936,GV_163#109,GV_163,GV_163,"""Please choose which departments/products you have influence or decision making authority on spending/purchasing""",recruiting new hires,2.0
+21,v9930c_life_values#1,0.014727668845315903,v9930c_life_values#1,v9930c_life_values,v9930c_life_values,"""Out of the following list, which are the 3 most important aspects to you in life? Please choose exactly 3.""",to be successful,2.0
+22,GV_31#1,0.01282096171802054,GV_31#1,GV_31,GV_31,"""What kind of gambling do you participate in?""",online sports betting,2.0
+23,v0157_etra_brandsflights#2,0.012815904139433551,v0157_etra_brandsflights#2,v0157_etra_brandsflights,v0157_etra_brandsflights,"""Which of these providers have you booked a flight from in the past 12 months (online booking via a website or app)?""",Cheapflights,2.0
+24,GV_31#16,0.012022785490288717,GV_31#16,GV_31,GV_31,"""What kind of gambling do you participate in?""",online bingo,2.0
+25,GV_198#25,0.011837515955468239,GV_198#25,GV_198,GV_198,"""What sports do you regularly participate in?""",skiing - downhill,2.0
+26,GV_198#22,0.010922075376085087,GV_198#22,GV_198,GV_198,"""What sports do you regularly participate in?""",rugby,2.0
+27,GV_31#99,0.010106424664190214,GV_31#99,GV_31,GV_31,"""What kind of gambling do you participate in?""",prefer not to say,2.0
+28,GV_133#8,0.00964555901100593,GV_133#8,GV_133,GV_133,"""Which of the following countries/regions have you travelled to in the last 12 months?""",east European countries (not Russia),2.0
+29,GV_174#32,0.009103641456582632,GV_174#32,GV_174,GV_174,"""Which fast food (quick service) restaurants do you go to, if any?""",McDonald's,2.0

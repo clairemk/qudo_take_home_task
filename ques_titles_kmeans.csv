@@ -1,0 +1,11 @@
+,answer,corr,ques,wave,Answer_options,ID_label,Question
+0,GV_133#16,-0.6076583596896008,GV_133,1,UK/Ireland,GV_133,"""Which of the following countries/regions have you travelled to in the last 12 months?"""
+1,GV_133#100,-0.4896826866130959,GV_133,2,prefer not to say,GV_133,"""Which of the following countries/regions have you travelled to in the last 12 months?"""
+2,GV_31#10,-0.5697977324107394,GV_31,1,bingo,GV_31,"""What kind of gambling do you participate in?"""
+3,GV_136#3,-0.5629778875861554,GV_136,1,Microsoft Xbox 360,GV_136,"""Which gaming platforms do you regularly use?"""
+4,GV_198#95,-0.5476837763744876,GV_198,1,gymnastics,GV_198,"""What sports do you regularly participate in?"""
+5,GV_198#28,-0.669439197972007,GV_198,2,football/soccer,GV_198,"""What sports do you regularly participate in?"""
+6,GV_163#97,-0.5259060301856606,GV_163,1,no influence,GV_163,"""Please choose which departments/products you have influence or decision making authority on spending/purchasing"""
+7,GV_163#6,-0.5034820126747056,GV_163,2,office supplies,GV_163,"""Please choose which departments/products you have influence or decision making authority on spending/purchasing"""
+8,GV_230#29,-0.6509741765296979,GV_230,2,women's magazines,GV_230,"""Which types of publications do you read?"""
+9,GV_132#1,-0.49253831232457307,GV_132,2,all inclusive resort,GV_132,"""Which of the following types of vacation/holidays do you usually go on?"""

@@ -1,0 +1,17 @@
+,,,,,,,,GV_183#100,GV_183#100,GV_227#99,GV_339#20,GV_230#4,GV_181#1,GV_181#9,GV_174#6,GV_208#99,GV_31#4
+,,,,,,,,"""Have you tried to quit smoking using any of these products/methods?""","""Have you tried to quit smoking using any of these products/methods?""","""How do you play video/computer games?""","""Do you watch any of these channels on TV?""","""Which types of publications do you read?""","""What brand of cigarettes do you smoke?""","""What brand of cigarettes do you smoke?""","""Which fast food (quick service) restaurants do you go to, if any?""","""If you actively participate in stock trading, how do you do your trading?""","""What kind of gambling do you participate in?"""
+,,,,,,,,I don't smoke / haven't tried to quit,I don't smoke / haven't tried to quit,I don't play video/computer games,Sky News,newspaper inserts (e.g. tv guide),I don't smoke cigarettes,Benson & Hedges,Burger King,none,I don't gamble at all
+,,cluster,v0013_demo_agecat_num,v9990_demo_income2gbr_num,v9915_demo_children_num,v0049_life_devicesinternet#1,v9930c_life_values#1,GV_183#100,GV_183#100,GV_227#99,GV_339#20,GV_230#4,GV_181#1,GV_181#9,GV_174#6,GV_208#99,GV_31#4
+w1,638,0,0.580488012,0.272854703,0.102821317,0.394984326,0.178683386,0.990282132,0.990282132,0.951818182,0.94830721,0.982068966,0.984858934,0.978166144,0.982695925,0.997868339,0.989733542
+,188,1,0.365152386,0.276059505,0.092553191,0.39893617,0.29787234,0.058244681,0.058244681,0.036914894,0.110744681,0.089521277,0.095106383,0.094893617,0.100319149,0.985904255,0.237819149
+,223,2,0.351593746,0.314885705,0.167713004,0.349775785,0.255605381,0.165246637,0.165246637,0.200269058,0.186995516,0.462107623,0.487040359,0.484215247,0.677578475,0.991569507,0.814753363
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+w2,448,0,0.341766687,0.29501026,0.126517572,0.367412141,0.3514377,0.923214286,0.923214286,0.896473214,0.891383929,0.969375,0.988325893,0.982053571,0.96921875,0.741071429,0.981138393
+,313,1,0.632118726,0.267378049,0.083035714,0.383928571,0.154017857,0.015878594,0.015878594,0.028498403,0.047603834,0.044313099,0.022332268,0.022140575,0.022204473,0.031948882,0.053929712
+,286,2,0.438196938,0.259008471,0.137762238,0.328671329,0.269230769,0.261083916,0.261083916,0.43034965,0.431153846,0.883811189,0.017447552,0.017307692,0.131888112,0.230769231,0.503496503
+,,,,,,,,,,,,,,,,,
+Waves,,,,,,,,,,,,,,,,,
+,,,,,,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+,,,,,,,,,,,,,,,,,
+Clusters,,,,,,,,,,,,,,,,,
